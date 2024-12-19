@@ -1,0 +1,4 @@
+producto1:2:4
+producto2:12:47
+producto3:24:14
+

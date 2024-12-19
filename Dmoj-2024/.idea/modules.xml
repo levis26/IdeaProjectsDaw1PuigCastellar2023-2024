@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Acronims/Acronims.iml" filepath="$PROJECT_DIR$/Acronims/Acronims.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dmoj-2024.iml" filepath="$PROJECT_DIR$/Dmoj-2024.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FunctionGame/FunctionGame.iml" filepath="$PROJECT_DIR$/FunctionGame/FunctionGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloYou/HelloYou.iml" filepath="$PROJECT_DIR$/HelloYou/HelloYou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notas/Notas.iml" filepath="$PROJECT_DIR$/Notas/Notas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdenEnLaCola/OrdenEnLaCola.iml" filepath="$PROJECT_DIR$/OrdenEnLaCola/OrdenEnLaCola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Post/Post.iml" filepath="$PROJECT_DIR$/Post/Post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Usuari/Usuari.iml" filepath="$PROJECT_DIR$/Usuari/Usuari.iml" />
+    </modules>
+  </component>
+</project>
